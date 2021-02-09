@@ -1,1 +1,1 @@
-# prompt-generation
+# Prompt Generation
